@@ -2,7 +2,7 @@
 <html>
     <head> 
         <link rel="stylesheet"
-              href="style.css"/>
+              href="index.css" type='text'/>
     <title>ТЕКСТ</title>
     <body style="background: linear-gradient(#E0FFFF, #AFEEEE) fixed; font-family:Sans-serif">
         <h1 style="text-align:center">ТЕКСТ</h1>
