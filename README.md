@@ -4,7 +4,7 @@
         <link rel="stylesheet"
               href="index.css" type='text'/>
     <title>ТЕКСТ</title>
-    <body style="background: linear-gradient(#E0FFFF, #AFEEEE) fixed; font-family:Sans-serif">
+    <body>
         <h1 style="text-align:center">ТЕКСТ</h1>
         <h2 style=" text-align:center">ТЕКСТ</h2>
         <h3 style="text-align:center; font-size:30px; ">ТЕКСТ</h3>
